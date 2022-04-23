@@ -6,7 +6,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "factory": "ts-node src/factory/main.ts"
+    "factory": "ts-node src/factory/main.ts",
+    "abstract-factory": "ts-node src/abstract-factory/main.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
