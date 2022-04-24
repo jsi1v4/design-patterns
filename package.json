@@ -7,7 +7,8 @@
   "private": false,
   "scripts": {
     "factory": "ts-node src/factory/main.ts",
-    "abstract-factory": "ts-node src/abstract-factory/main.ts"
+    "abstract-factory": "ts-node src/abstract-factory/main.ts",
+    "builder": "ts-node src/builder/main.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
