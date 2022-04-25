@@ -6,9 +6,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "factory": "ts-node src/factory/main.ts",
-    "abstract-factory": "ts-node src/abstract-factory/main.ts",
-    "builder": "ts-node src/builder/main.ts"
+    "creational:factory": "ts-node src/creational/factory/main.ts",
+    "creational:abstract-factory": "ts-node src/creational/abstract-factory/main.ts",
+    "creational:builder": "ts-node src/creational/builder/main.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
