@@ -8,7 +8,8 @@
   "scripts": {
     "creational:factory": "ts-node src/creational/factory/main.ts",
     "creational:abstract-factory": "ts-node src/creational/abstract-factory/main.ts",
-    "creational:builder": "ts-node src/creational/builder/main.ts"
+    "creational:builder": "ts-node src/creational/builder/main.ts",
+    "structural:adapter": "ts-node src/structural/adapter/main.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
