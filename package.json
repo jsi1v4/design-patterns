@@ -13,6 +13,7 @@
     "creational:singleton": "ts-node src/creational/singleton/main.ts",
     "structural:adapter": "ts-node src/structural/adapter/main.ts",
     "structural:bridge": "ts-node src/structural/bridge/main.ts",
+    "structural:composite": "ts-node src/structural/composite/main.ts",
     "behavioral:chain-of-reponsibility": "ts-node src/behavioral/chain-of-reponsibility/main.ts"
   },
   "dependencies": {

@@ -2,7 +2,7 @@
 
 ## Creational Design Patterns
 
-Os padrões de design criacional fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e a reutilização do código existente.
+Padrões de design criacional fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e a reutilização do código existente.
 
 ### Factory
 
@@ -23,3 +23,19 @@ Um objeto parcial ou totalmente inicializado que você copia (clone) e usa.
 ### Singleton
 
 Um componente que é instanciado apenas uma vez.
+
+## Structural Design Patterns
+
+Padrões de projeto estrutural explicam como montar objetos e classes em estruturas maiores, mantendo essas estruturas flexíveis e eficientes.
+
+### Adapter
+
+Um constructor que adapta uma interface X existente para estar em conformidade com a interface Y necessária.
+
+### Bridge
+
+Um mecanismo que separa uma interface de uma implementação (abstração e implementação).
+
+### Composite
+
+Um mecanismo para tratar objetos individuais e composições de objetos de maneira uniforme.
