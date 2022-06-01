@@ -39,3 +39,7 @@ Um mecanismo que separa uma interface de uma implementação (abstração e impl
 ### Composite
 
 Um mecanismo para tratar objetos individuais e composições de objetos de maneira uniforme.
+
+### Decorator
+
+Facilita a adição de comportamentos a objetos individuais sem herdar deles.
