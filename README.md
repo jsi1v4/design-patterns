@@ -43,3 +43,7 @@ Um mecanismo para tratar objetos individuais e composições de objetos de manei
 ### Decorator
 
 Facilita a adição de comportamentos a objetos individuais sem herdar deles.
+
+### Facade
+
+Fornece uma interface de usuário simples e fácil de entender em um código grande e sofisticado.

@@ -15,6 +15,7 @@
     "structural:bridge": "ts-node src/structural/bridge/main.ts",
     "structural:composite": "ts-node src/structural/composite/main.ts",
     "structural:decorator": "ts-node src/structural/decorator/main.ts",
+    "structural:facade": "ts-node src/structural/facade/main.ts",
     "behavioral:chain-of-reponsibility": "ts-node src/behavioral/chain-of-reponsibility/main.ts"
   },
   "dependencies": {
