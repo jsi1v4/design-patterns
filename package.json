@@ -16,7 +16,8 @@
     "structural:composite": "ts-node src/structural/composite/main.ts",
     "structural:decorator": "ts-node src/structural/decorator/main.ts",
     "structural:facade": "ts-node src/structural/facade/main.ts",
-    "behavioral:chain-of-reponsibility": "ts-node src/behavioral/chain-of-reponsibility/main.ts"
+    "behavioral:chain-of-reponsibility": "ts-node src/behavioral/chain-of-reponsibility/main.ts",
+    "behavioral:strategy": "ts-node src/behavioral/strategy/main.ts"
   },
   "dependencies": {
     "chalk": "4.1.2"

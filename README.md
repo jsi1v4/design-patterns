@@ -47,3 +47,15 @@ Facilita a adição de comportamentos a objetos individuais sem herdar deles.
 ### Facade
 
 Fornece uma interface de usuário simples e fácil de entender em um código grande e sofisticado.
+
+## Behavioral Design Patterns
+
+Padrões de projeto comportamentais estão preocupados com algoritmos e atribuição de responsabilidades entre objetos.
+
+### Chain Of Reponsibility
+
+Uma cadeia de componentes que têm a chance de processar um comando ou uma consulta, opcionalmente com implementação de processamento padrão e capacidade de encerrar a cadeia de processamento.
+
+### Strategy
+
+Permite que o comportamento exato de um sistema seja selecionado em tempo de execução.
